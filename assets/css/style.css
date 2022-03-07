@@ -53,13 +53,13 @@ nav a:hover {
 }
 
 #banner {
-    width: 600px;
+    width: 100%;
     height: auto;
     background-color: white;
 }
 
 #banner img {
-    width: 60%;
+    width: 600px;
     height: auto;
 }
 
